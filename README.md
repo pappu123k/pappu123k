@@ -7,5 +7,7 @@
 - ⭐ Codeforces: Pupil (Max Rating: 1240) | CodeChef: 3⭐ (Max Rating: 1621)  
 - 🧠 Strong in Data Structures and Algorithms, and Object-Oriented Programming  
 - 💬 Ask me about React, Node.js, C++, MongoDB, Express  
-- 📫 Reach me at: pappuinfo06@gmail.com  
+- 📫 Reach me at: pappuinfo06@gmail.com
+- ## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pappu-kumar-4ab414232/)
 - ⚡ Fun fact: I lead the Cricket🏏team in college!
