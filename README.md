@@ -27,13 +27,6 @@
 
 ---
 
-## 📈 GitHub Stats:
-
-![Pappu's GitHub stats](https://github-readme-stats.vercel.app/api?username=pappukumar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pappukumar&layout=compact&theme=radical)
-
----
-
 ## 📌 Pinned Projects:
 
 Here are some of my key projects (pin these from your GitHub homepage):
