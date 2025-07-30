@@ -8,4 +8,4 @@
 - 🧠 Strong in Data Structures and Algorithms, and Object-Oriented Programming  
 - 💬 Ask me about React, Node.js, C++, MongoDB, Express  
 - 📫 Reach me at: pappuinfo06@gmail.com  
-- ⚡ Fun fact: I lead both the Cricket 🏏 and Kabaddi 🤼‍♂️ teams in college!
+- ⚡ Fun fact: I lead the Cricket🏏team in college!
